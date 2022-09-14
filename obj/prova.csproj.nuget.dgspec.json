@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\prova\\prova.csproj": {}
+    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\MyCourse\\.NETCorso\\prova.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\prova\\prova.csproj": {
+    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\MyCourse\\.NETCorso\\prova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\prova\\prova.csproj",
+        "projectUniqueName": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\MyCourse\\.NETCorso\\prova.csproj",
         "projectName": "prova",
-        "projectPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\prova\\prova.csproj",
+        "projectPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\MyCourse\\.NETCorso\\prova.csproj",
         "packagesPath": "C:\\Users\\lorusso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\prova\\obj\\",
+        "outputPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\MyCourse\\.NETCorso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -51,16 +53,24 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
