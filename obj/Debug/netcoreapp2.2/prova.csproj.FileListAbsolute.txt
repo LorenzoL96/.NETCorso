@@ -1,0 +1,16 @@
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\bin\Debug\netcoreapp2.2\prova.deps.json
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\bin\Debug\netcoreapp2.2\prova.runtimeconfig.json
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\bin\Debug\netcoreapp2.2\prova.runtimeconfig.dev.json
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\bin\Debug\netcoreapp2.2\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\bin\Debug\netcoreapp2.2\prova.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.csproj.AssemblyReference.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.AssemblyInfoInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.AssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.csproj.CoreCompileInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorAssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorTargetAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\MyCourse\.NETCorso\obj\Debug\netcoreapp2.2\prova.genruntimeconfig.cache
