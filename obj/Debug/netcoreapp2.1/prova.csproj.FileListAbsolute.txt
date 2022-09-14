@@ -1,0 +1,14 @@
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\bin\Debug\netcoreapp2.1\prova.deps.json
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\bin\Debug\netcoreapp2.1\prova.runtimeconfig.json
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\bin\Debug\netcoreapp2.1\prova.runtimeconfig.dev.json
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\bin\Debug\netcoreapp2.1\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\bin\Debug\netcoreapp2.1\prova.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.csprojAssemblyReference.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.csproj.CoreCompileInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.RazorAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.RazorAssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.AssemblyInfoInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.AssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.RazorTargetAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\prova\obj\Debug\netcoreapp2.1\prova.pdb
