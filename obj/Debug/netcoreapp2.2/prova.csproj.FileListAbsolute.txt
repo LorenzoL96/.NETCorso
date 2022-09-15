@@ -59,3 +59,4 @@ C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netc
 C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs

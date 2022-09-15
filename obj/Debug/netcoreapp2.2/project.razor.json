@@ -1895,6 +1895,11 @@
       "FilePath": "c:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\Views\\Courses\\Detail.cshtml",
       "TargetPath": "Views\\Courses\\Detail.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
