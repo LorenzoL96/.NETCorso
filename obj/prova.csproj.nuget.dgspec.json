@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/prova.csproj": {}
+    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\prova.csproj": {}
   },
   "projects": {
-    "/Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/prova.csproj": {
+    "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\prova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/prova.csproj",
+        "projectUniqueName": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\prova.csproj",
         "projectName": "prova",
-        "projectPath": "/Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/prova.csproj",
-        "packagesPath": "/Users/lorenzolorusso/.nuget/packages/",
-        "outputPath": "/Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/obj/",
+        "projectPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\prova.csproj",
+        "packagesPath": "C:\\Users\\lorusso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorusso\\Desktop\\Corso .NET Core\\Corso NET-CORE\\.NETCorso\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lorenzolorusso/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lorusso\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -67,7 +70,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

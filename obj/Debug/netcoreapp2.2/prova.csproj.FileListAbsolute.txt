@@ -30,3 +30,32 @@ C:/Users/lorusso/Desktop/Corso .NET Core/MyCourse/.NETCorso/obj/Debug/netcoreapp
 /Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/obj/Debug/netcoreapp2.2/prova.dll
 /Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/obj/Debug/netcoreapp2.2/prova.pdb
 /Volumes/Maxtor/Tirocinio Experis/NET-CORE/CorsoDotNetWebApplication/.NETCorso-1/obj/Debug/netcoreapp2.2/prova.genruntimeconfig.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.deps.json
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.runtimeconfig.json
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.runtimeconfig.dev.json
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.csproj.AssemblyReference.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.AssemblyInfoInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.AssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.csproj.CoreCompileInputs.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorAssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorTargetAssemblyInfo.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.genruntimeconfig.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.Views.dll
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\bin\Debug\netcoreapp2.2\prova.Views.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.TagHelpers.input.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.TagHelpers.output.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorCoreGenerate.cache
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.RazorTargetAssemblyInfo.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.Views.pdb
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\prova.csproj.CopyComplete
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Detail.cshtml.g.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lorusso\Desktop\Corso .NET Core\Corso NET-CORE\.NETCorso\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
