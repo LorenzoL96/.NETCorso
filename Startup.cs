@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using NETCorso.Models.Services.Application;
 
 namespace prova
 {
@@ -16,7 +17,7 @@ namespace prova
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
-            
+            services.AddTransient<ICourseService, CourseService>(); //Costruisce automaticamente l'oggetto CourseService e lo passa alle classi che necessitano dell'oggetto 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
