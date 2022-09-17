@@ -18,16 +18,16 @@ namespace NETCorso.Controllers
         }
 
         //Responsabile di presentare l'elenco dei corsi
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             ViewData["Title"] = "Catalogo dei corsi";
-            List<CourseViewModel> courses = courseService.GetCourses();
+            List<CourseViewModel> courses = await courseService.GetCoursesAsync();
             return View(courses);
 
         }
 
-        public IActionResult Detail(int id){
-            CourseDetailViewModel viewModel = courseService.GetCourse(id);
+        public async Task<IActionResult> Detail(int id){
+            CourseDetailViewModel viewModel = await courseService.GetCourseAsync(id);
             ViewData["Title"] = viewModel.Title; //viene passata automaticamente alla view
             return View(viewModel);
         }
