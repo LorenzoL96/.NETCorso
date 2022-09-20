@@ -4,13 +4,30 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Data.Sqlite;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+using NETCorso.Models.Options;
 
 namespace NETCorso.Models.Services.Infrastructure
 {
     public class SqliteDatabaseAccessor : IDatabaseAccessor
     {
+        private readonly ILogger<SqliteDatabaseAccessor> logger;
+
+        public SqliteDatabaseAccessor(ILogger<SqliteDatabaseAccessor>  logger, IOptionsMonitor<ConnectionStringsOptions> connectionStringsOptions)
+        {
+            this.logger = logger;
+            ConnectionStringsOptions = connectionStringsOptions;
+        }
+
+        public IOptionsMonitor<ConnectionStringsOptions> ConnectionStringsOptions { get; }
+
         public async Task<DataSet> QueryAsync(FormattableString formattableQuery)
         {
+            logger.LogInformation(formattableQuery.Format, formattableQuery.GetArguments());
+            
+
             var queryArguments = formattableQuery.GetArguments();
             var sqliteParameters = new List<SqliteParameter>();
             for(var i = 0; i < queryArguments.Length; i++){
@@ -20,8 +37,8 @@ namespace NETCorso.Models.Services.Infrastructure
             }
             string query = formattableQuery.ToString();
 
-
-            using (var conn = new SqliteConnection("Data Source=Data/MyCourse.db"))
+            string connectionString = ConnectionStringsOptions.CurrentValue.Default;
+            using (var conn = new SqliteConnection(connectionString))
             { //apertura connessione
                 await conn.OpenAsync(); //connessione già preparata da connection pool
                 using (var cmd = new SqliteCommand(query, conn))
