@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NETCorso.Models.Options;
@@ -35,6 +36,7 @@ namespace prova
             //services.AddTransient<ICourseService, EFCoreCourseService>();       //Costruisce automaticamente l'oggetto CourseService e lo passa alle classi che necessitano dell'oggetto
             services.AddTransient<ICourseService, AdoNetCourseService>();       //Costruisce automaticamente l'oggetto CourseService e lo passa alle classi che necessitano dell'oggetto
             services.AddTransient<IDatabaseAccessor, SqliteDatabaseAccessor>(); //Costruisce automaticamente l'oggetto CourseService e lo passa alle classi che necessitano dell'oggetto 
+            services.AddTransient<ICachedCourseService, MemoryCacheCourseService>();
             //services.AddScoped<MyCourseDbContext>();
             //services.AddDbContext<MyCourseDbContext>();
             services.AddDbContextPool<MyCourseDbContext>(optionsBuilder => {
@@ -42,10 +44,12 @@ namespace prova
                 optionsBuilder.UseSqlite(connectionString);
             });
 
+
             //Options: contiene i riferimenti per i file di configurazione
             services.Configure<ConnectionStringsOptions>(Configuration.GetSection("ConnectionStrings"));
             services.Configure<CoursesOptions>(Configuration.GetSection("Courses"));
-        }
+            //services.Configure<MemoryCacheOptions>(Configuration.GetSection("MemoryCache")); //il nome della sezione è dato da noi 
+            }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
